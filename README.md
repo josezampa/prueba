@@ -12,4 +12,4 @@ actividad 1 git basico. repositorio de prueba
 
 :octocat: :+1: :sparkles:
 
-link del proyecto : [github] (https://github.com/josezampa/prueba)
+link del proyecto : [github](https://github.com/josezampa/prueba)
